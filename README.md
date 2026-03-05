@@ -22,7 +22,7 @@ Before running the script, ensure the following:
     system PATH.
 - Permissions: It is recommended to run the script as Administrator to ensure file write
     permissions and software installation (if needed).
-3. The Script (SSL_Creator.bat) is attached
+3. The Script (SSL_Certificate_Creator.bat) is attached
 4. How to Use
 
 Step 1: Run the Script
